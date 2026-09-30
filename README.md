@@ -9,8 +9,8 @@ System type	64-bit operating system, x64-based processor
 Pen and touch	No pen or touch input is available for this display
 # Repositori Praktikum Pemrograman Web 2026
 **Informasi Mahasiswa:**
-* **Nama:** [Isi Nama Lengkap Anda]
-* **NIM:** [Isi NIM Anda]
+* **Nama:** Rindam Susilo
+* **NIM:** 2406052
 * **Kelas/Prodi:** Teknik Informatika - ITG
 * **Kode MK:** IFRWP5151
 ---
